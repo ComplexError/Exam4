@@ -1,0 +1,7 @@
+Player A rolled a 2 on a 10 sided die
+Player B rolled a 8 on a 10 sided die
+Player C rolled a 2 on a 10 sided die
+Player D rolled a 2 on a 10 sided die
+Player E rolled a 3 on a 10 sided die
+Player F rolled a 1 on a 10 sided die
+B won the game
